@@ -1,0 +1,24 @@
+.dip{
+  text-align: center;
+}
+
+.icon{
+  font-size: 60px;
+}
+
+.slc{
+  font-family: "Montserrat";
+  font-size: 40px;
+  background-color: white;
+  padding: 50px 90px 50px 75px;
+  font-weight: bold;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.05), 0 6px 20px 0 rgba(0, 0, 0, 0.05);
+  transition: 0.5s;
+  border-radius: 10px;
+}
+
+.slc:hover{
+  color: #3BACB6;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.25), 0 6px 20px 0 rgba(0, 0, 0, 0.25);
+  cursor:pointer;
+}
